@@ -1,0 +1,13 @@
+h2{text-decoration: underline; color: blue;}
+		h3{color: blue;}
+		p{font-size: 20px;color: blue;}
+		ul{font-style: italic;color: blue;}
+		body{background-color: silver;border:solid;margin:5px;padding:10px;}
+		a{color: purple}
+		#headred{color:red}
+		.greenp{color:green}
+		#div1{background-color: white;position:relative;}
+		#div2{background-color: white;position:static;}
+		#div3{background-color: grey;position:static;}
+		span{color:red;font-size:20pt;}
+		input[type=button] {color: white;font-size: 20px;background-color: blue; padding: 20px;}
